@@ -6,3 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*

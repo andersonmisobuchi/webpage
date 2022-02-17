@@ -68,6 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a Physics PhD graduate researcher working in the [Weinberg Theory Group](https://zippy.ph.utexas.edu/research.html)  at the University of Texas at Austin under the supervision of [Elena Caceres](https://zippy.ph.utexas.edu/~elenac/). My research focuses on the relationship between quantum mechanics and gravity via the holographic duality.
+I'm a Physics PhD graduate researcher working in the [Weinberg Theory Group](https://zippy.ph.utexas.edu/research.html)  at the University of Texas at Austin under the supervision of [Elena Caceres](https://zippy.ph.utexas.edu/~elenac/). My research focuses on the relationship between quantum information and quantum gravity via the holographic duality.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}
