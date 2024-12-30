@@ -18,17 +18,18 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Gauge/gravity duality
+- High-Energy Physics
 - Quantum information
 - Machine Learning
 - Tensor Networks
+- Molecular Modeling
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Physics
     institution: University of Texas at Austin
-    year: Expected in 2022
+    year: 2022
   - course: MS in Physics
     institution: University of Sao Paulo
     year: 2016
@@ -68,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a Physics PhD graduate researcher working in the [Weinberg Theory Group](https://zippy.ph.utexas.edu/research.html)  at the University of Texas at Austin under the supervision of [Elena Caceres](https://zippy.ph.utexas.edu/~elenac/). My research focuses on the relationship between quantum information and quantum gravity via the holographic duality.
+I obtained my PhD in Physics in the [Weinberg Theory Group](https://zippy.ph.utexas.edu/research.html) at the University of Texas at Austin under the supervision of [Elena Caceres](https://zippy.ph.utexas.edu/~elenac/). My research focused on the relationship between quantum information and quantum gravity via the holographic duality. Currently, I'm working as a Scientific Software Developer at OpenEye, Cadence Molecular Sciences.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}} -->
