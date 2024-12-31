@@ -5,10 +5,11 @@ title: "Out-of-time-order correlators and Lyapunov exponents in sparse SYK"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- admin
 - Elena Caceres
 - Tyler Guglielmo
 - Brian Kent
-- admin
+
 
 date: "2023-11-01T00:00:00Z"
 doi: "https://doi.org/10.1007/JHEP11(2023)088"

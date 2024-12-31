@@ -40,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2108.08808.pdf'
+url_pdf: ''
 url_code: 'https://github.com/andersonmisobuchi/sparse-SYK-wormhole'
 url_dataset: ''
 url_poster: ''
